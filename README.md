@@ -121,7 +121,8 @@ MIPI DSI 实际速率估算：
 | `docs/天线净空分析_2026-09-30.md` | 天线净空核查 |
 | `docs/T113原理图改动_首次操作清单.md` | 逐条改板步骤 |
 
-> 3D 模型（STEP，约 41 MB）未入库，避免仓库臃肿；需要可单独提供。
+> 3D 模型（STEP，约 41 MB）未放入 Git 历史，已作为附件发布在
+> [Release `hw-v1.0`](https://github.com/Soap-hub-AA/t113-smart-display-hardware/releases/tag/hw-v1.0)。
 
 ---
 
